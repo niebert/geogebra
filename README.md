@@ -8,10 +8,19 @@ It is available on a private GitLab instance and mirrored to GitHub
 Please read https://www.geogebra.org/license about GeoGebra's
 licensing.
 
-According to the license mentioned  at the link above, the source code is licensed under the GNU Public License. 
+According to the license mentioned  at the link above, the source code is licensed under the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.html). 
 * adds the copyright notice for the GNU Public License with a license file for the GNU Public License
 * Reference to the GNU Public License is: https://www.gnu.org/licenses/gpl-3.0.html
 * the used [LICENSE]() is a plain text version of the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.txt)  URL: https://www.gnu.org/licenses/gpl-3.0.txt
+* See also [Open Educational Resources](https://www.unesco.org/en/open-educational-resources) for collaborative working and sharing of OER documents with a [FAIR principle](https://www.go-fair.org/fair-principles/)
+
+## Other Open Source Tools for Mathematics
+Geogebra is due to the OpenSource licensing model on of the core components of OpenSource mathematics tools.
+* Maxima wxMaxima
+* [Octave](https://octave.org/)
+* [R Statistics]()
+* [SOFA](https://www.sofastatistics.com/home.php)
+* [CAS4wiki](https://en.wikiversity.org/wiki/CAS4Wiki) is an [Algebrite](https://www.algebrite.org) and [Plotly.js]() based web-based Computer Algebra System, that was intended to be a rapid prototype for testing   
 
 
 ## Running the web version
