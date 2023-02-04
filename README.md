@@ -12,7 +12,7 @@ According to the license mentioned  at the link above, the source code of Geogeb
 * adds the copyright notice for the GNU Public License with a license file for the GNU Public License
 * Reference to the GNU Public License is: https://www.gnu.org/licenses/gpl-3.0.html
 * the used [LICENSE]() is a plain text version of the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.txt)  URL: https://www.gnu.org/licenses/gpl-3.0.txt
-* See also [Open Educational Resources](https://www.unesco.org/en/open-educational-resources) for collaborative working and sharing of OER documents with a [FAIR principle](https://www.go-fair.org/fair-principles/)
+* See also [Open Educational Resources](https://www.unesco.org/en/open-educational-resources) for collaborative working and sharing of OER documents and with application of the [FAIR principle](https://www.go-fair.org/fair-principles/)
 * For current versions of Geogebra see https://github.com/geogebra/geogebra
 
 ## Other Open Source Tools for Mathematics
