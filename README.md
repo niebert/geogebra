@@ -18,9 +18,9 @@ According to the license mentioned  at the link above, the source code is licens
 Geogebra is due to the OpenSource licensing model on of the core components of OpenSource mathematics tools.
 * Maxima wxMaxima
 * [Octave](https://octave.org/)
-* [R Statistics]()
+* [R Statistics](https://www.r-project.org/about.html) - [Wikipedia - R Programming Language](https://en.wikipedia.org/wiki/R_(programming_language)
 * [SOFA](https://www.sofastatistics.com/home.php)
-* [CAS4wiki](https://en.wikiversity.org/wiki/CAS4Wiki) is an [Algebrite](https://www.algebrite.org) and [Plotly.js]() based web-based Computer Algebra System, that was intended to be a rapid prototype for testing   
+* [CAS4wiki](https://en.wikiversity.org/wiki/CAS4Wiki) is an [Algebrite](https://www.algebrite.org) and [Plotly.js](https://plotly.com/javascript/) based web-based Computer Algebra System, that was intended to be a rapid prototype for testing   
 
 
 ## Running the web version
