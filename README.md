@@ -8,11 +8,12 @@ It is available on a private GitLab instance and mirrored to GitHub
 Please read https://www.geogebra.org/license about GeoGebra's
 licensing.
 
-According to the license mentioned  at the link above, the source code is licensed under the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.html). 
+According to the license mentioned  at the link above, the source code of Geogebra is licensed under the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.html). The copyright notice is placed as usual in the LICENSE file of the repository. This repository
 * adds the copyright notice for the GNU Public License with a license file for the GNU Public License
 * Reference to the GNU Public License is: https://www.gnu.org/licenses/gpl-3.0.html
 * the used [LICENSE]() is a plain text version of the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.txt)  URL: https://www.gnu.org/licenses/gpl-3.0.txt
 * See also [Open Educational Resources](https://www.unesco.org/en/open-educational-resources) for collaborative working and sharing of OER documents with a [FAIR principle](https://www.go-fair.org/fair-principles/)
+* For current versions of Geogebra see https://github.com/geogebra/geogebra
 
 ## Other Open Source Tools for Mathematics
 Geogebra is due to the OpenSource licensing model on of the core components of OpenSource mathematics tools.
