@@ -2,10 +2,17 @@
 
 
 This repository contains source code of [GeoGebra](https://www.geogebra.org)'s math apps.
-It is available on a private GitLab instance and mirrored to GitHub.
+It is available on a private GitLab instance and mirrored to GitHub
+
 
 Please read https://www.geogebra.org/license about GeoGebra's
 licensing.
+
+According to the license mentioned  at the link above, the source code is licensed under the GNU Public License. 
+* adds the copyright notice for the GNU Public License with a license file for the GNU Public License
+* Reference to the GNU Public License is: https://www.gnu.org/licenses/gpl-3.0.html
+* the used [LICENSE]() is a plain text version of the [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.txt)  URL: https://www.gnu.org/licenses/gpl-3.0.txt
+
 
 ## Running the web version
 To start the web version from command line, run
